@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradeCategories.Domain", "TradeCategories.Domain\TradeCategories.Domain.csproj", "{8AB359DE-5CBC-4422-B191-8F3A3A401918}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradeCategories.Core", "TradeCategories.Core\TradeCategories.Core.csproj", "{3BCD3937-5EE0-4E2C-87B0-448CE1A4EAB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradeCategories.Infra", "TradeCategories.Infra\TradeCategories.Infra.csproj", "{EBE27A47-D2B2-4369-BB0E-5ED52BE77B57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradeCategories.Services", "TradeCategories.Services\TradeCategories.Services.csproj", "{1CE21FCE-987E-46C1-85C1-E5169EF1DE68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradeCategories.Presentation", "TradeCategories.Presentation\TradeCategories.Presentation.csproj", "{DE860662-4BEA-4FB4-B083-A6D2BC3AB2EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tables e Procedures", "Tables e Procedures", "{E784D769-1141-4468-8D3D-1E5121F5BBB5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\TesteOK\Banco\Tables e Procedure[ORACLE].sql = ..\..\TesteOK\Banco\Tables e Procedure[ORACLE].sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB359DE-5CBC-4422-B191-8F3A3A401918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB359DE-5CBC-4422-B191-8F3A3A401918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB359DE-5CBC-4422-B191-8F3A3A401918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB359DE-5CBC-4422-B191-8F3A3A401918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCD3937-5EE0-4E2C-87B0-448CE1A4EAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCD3937-5EE0-4E2C-87B0-448CE1A4EAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCD3937-5EE0-4E2C-87B0-448CE1A4EAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCD3937-5EE0-4E2C-87B0-448CE1A4EAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE27A47-D2B2-4369-BB0E-5ED52BE77B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE27A47-D2B2-4369-BB0E-5ED52BE77B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE27A47-D2B2-4369-BB0E-5ED52BE77B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE27A47-D2B2-4369-BB0E-5ED52BE77B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE21FCE-987E-46C1-85C1-E5169EF1DE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE21FCE-987E-46C1-85C1-E5169EF1DE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE21FCE-987E-46C1-85C1-E5169EF1DE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE21FCE-987E-46C1-85C1-E5169EF1DE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE860662-4BEA-4FB4-B083-A6D2BC3AB2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE860662-4BEA-4FB4-B083-A6D2BC3AB2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE860662-4BEA-4FB4-B083-A6D2BC3AB2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE860662-4BEA-4FB4-B083-A6D2BC3AB2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D62B4676-ACA5-4B96-BE0B-7F317F0DB949}
+	EndGlobalSection
+EndGlobal

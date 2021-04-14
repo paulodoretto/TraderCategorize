@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcPSglMu7sbiInthfAeSJ0rLXF9hmBkNc0IRolCJo3HZQnyzYT035gBXg2liUvvDWASktMNsentf+RlJxhKVbw==",
+  "success": true,
+  "projectFilePath": "C:\\PDORETTO\\audaciadev\\TradeCategories\\TradeCategories\\TradeCategories.Domain\\TradeCategories.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo\\.nuget\\packages\\fluentvalidation\\10.0.2\\fluentvalidation.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Core\bin\Debug\netcoreapp3.1\TradeCategories.Core.deps.json
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Core\bin\Debug\netcoreapp3.1\TradeCategories.Core.dll
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Core\bin\Debug\netcoreapp3.1\TradeCategories.Core.pdb
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Core\obj\Debug\netcoreapp3.1\TradeCategories.Core.AssemblyInfoInputs.cache
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Core\obj\Debug\netcoreapp3.1\TradeCategories.Core.AssemblyInfo.cs
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Core\obj\Debug\netcoreapp3.1\TradeCategories.Core.csproj.CoreCompileInputs.cache
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Core\obj\Debug\netcoreapp3.1\TradeCategories.Core.dll
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Core\obj\Debug\netcoreapp3.1\TradeCategories.Core.pdb

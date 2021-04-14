@@ -1,0 +1,16 @@
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\bin\Debug\netcoreapp3.1\TradeCategories.Services.deps.json
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\bin\Debug\netcoreapp3.1\TradeCategories.Services.dll
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\bin\Debug\netcoreapp3.1\TradeCategories.Services.pdb
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\bin\Debug\netcoreapp3.1\TradeCategories.Core.dll
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\bin\Debug\netcoreapp3.1\TradeCategories.Domain.dll
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\bin\Debug\netcoreapp3.1\TradeCategories.Infra.dll
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\bin\Debug\netcoreapp3.1\TradeCategories.Core.pdb
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\bin\Debug\netcoreapp3.1\TradeCategories.Domain.pdb
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\bin\Debug\netcoreapp3.1\TradeCategories.Infra.pdb
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\obj\Debug\netcoreapp3.1\TradeCategories.Services.csprojAssemblyReference.cache
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\obj\Debug\netcoreapp3.1\TradeCategories.Services.AssemblyInfoInputs.cache
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\obj\Debug\netcoreapp3.1\TradeCategories.Services.AssemblyInfo.cs
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\obj\Debug\netcoreapp3.1\TradeCategories.Services.csproj.CoreCompileInputs.cache
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\obj\Debug\netcoreapp3.1\TradeCategories.Services.csproj.CopyComplete
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\obj\Debug\netcoreapp3.1\TradeCategories.Services.dll
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Services\obj\Debug\netcoreapp3.1\TradeCategories.Services.pdb

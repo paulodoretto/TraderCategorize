@@ -1,0 +1,12 @@
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\bin\Debug\netcoreapp3.1\TradeCategories.Domain.deps.json
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\bin\Debug\netcoreapp3.1\TradeCategories.Domain.dll
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\bin\Debug\netcoreapp3.1\TradeCategories.Domain.pdb
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\bin\Debug\netcoreapp3.1\TradeCategories.Core.dll
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\bin\Debug\netcoreapp3.1\TradeCategories.Core.pdb
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\obj\Debug\netcoreapp3.1\TradeCategories.Domain.csprojAssemblyReference.cache
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\obj\Debug\netcoreapp3.1\TradeCategories.Domain.AssemblyInfoInputs.cache
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\obj\Debug\netcoreapp3.1\TradeCategories.Domain.AssemblyInfo.cs
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\obj\Debug\netcoreapp3.1\TradeCategories.Domain.csproj.CoreCompileInputs.cache
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\obj\Debug\netcoreapp3.1\TradeCategories.Domain.csproj.CopyComplete
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\obj\Debug\netcoreapp3.1\TradeCategories.Domain.dll
+C:\PDORETTO\audaciadev\TradeCategories\TradeCategories\TradeCategories.Domain\obj\Debug\netcoreapp3.1\TradeCategories.Domain.pdb

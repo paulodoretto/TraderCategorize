@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TradeCategories.Core\TradeCategories.Core.csproj" />
+    <ProjectReference Include="..\TradeCategories.Domain\TradeCategories.Domain.csproj" />
+    <ProjectReference Include="..\TradeCategories.Infra\TradeCategories.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
